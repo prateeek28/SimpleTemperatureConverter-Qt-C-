@@ -1,0 +1,18 @@
+# Qt Creator user files
+*.pro.user
+
+# Build folders
+build-*
+*.o
+*.obj
+*.exe
+*.dll
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
