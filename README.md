@@ -27,9 +27,9 @@ This project goes beyond basic conversion by adding input validation, animated f
   - Theme switching
   - History updates
 - Temperature-based color output:
-  -  Cold
-  -  Normal
-  -  Hot
+  -  Cold -> Blue
+  -  Normal -> Green
+  -  Hot -> Red
 
 ## Conversion History
 - Automatically stores conversion history
