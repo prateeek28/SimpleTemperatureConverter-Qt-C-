@@ -1,4 +1,4 @@
-#  Simple But Advanced Temperature Converter (Qt + C++)
+# Temperature Converter (Qt + C++)
 ## Output
 <img width="800" height="600" alt="MainWindow 11-02-2026 15_16_10" src="https://github.com/user-attachments/assets/aeac219a-0c8c-44b2-8ab1-3a8d974b3eca" />
 
