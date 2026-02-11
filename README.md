@@ -52,21 +52,6 @@ This project goes beyond basic conversion by adding input validation, animated f
 
 ---
 
-## Project Structure
-
-SimpleTemperatureConverter/
-│
-├── main.cpp # Application entry point
-├── mainwindow.h # Main window class declaration
-├── mainwindow.cpp # Core application logic
-├── mainwindow.ui # Qt Designer UI layout
-├── SimpleTempratureConverter.pro
-├── .gitignore
-└── README.md
-
-
----
-
 ## How to Run
 
 1. Open the project in Qt Creator
