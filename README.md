@@ -76,10 +76,9 @@ Learning focus: Clean UI, UX-driven logic, and modern Qt practices
 
 ## Output:-
 
-Screenshort
+
 <img width="800" height="600" alt="MainWindow 11-02-2026 15_16_10" src="https://github.com/user-attachments/assets/aeac219a-0c8c-44b2-8ab1-3a8d974b3eca" />
 
-Video 
 
 https://github.com/user-attachments/assets/04ca7185-893b-4cc2-a9e9-314a5b95b0bd
 
